@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Pperorin👋
 
 <!--
 **pperorin/pperorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pperorin&show_icons=true&theme=omni)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pperorin&soft-dev)](https://github.com/pperorin/soft-dev)
