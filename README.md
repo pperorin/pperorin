@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pperorin&show_icons=true&theme=omni)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pperorin&repo=soft-dev&theme=omni)](https://github.com/pperorin/soft-dev)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pperorin&repo=
-Telecare&theme=omni)](https://github.com/pperorin/Telecare.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pperorin&repo=Telecare&theme=omni)](https://github.com/pperorin/Telecare.git)
