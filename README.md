@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pperorin&show_icons=true&theme=omni)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pperorin&layout=compact&theme=omni)](https://github.com/pperorin/soft-dev)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pperorin&show_icons=true&theme=omni)<br/>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pperorin&repo=soft-dev&theme=omni)](https://github.com/pperorin/soft-dev)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pperorin&repo=Telecare&theme=omni)](https://github.com/pperorin/Telecare.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pperorin&repo=Telecare&theme=omni)](https://github.com/pperorin/Telecare.git)<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pperorin&layout=compact&theme=omni)](https://github.com/pperorin/pperorin)<br/>
