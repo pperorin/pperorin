@@ -1,6 +1,6 @@
 <h1>👋 Hi there I'm Pperorin 👋</h1>
 
-<p style="font-size:100px">📚 Where I am currently working 📚</p>
+<h2>📚 Where I am currently working 📚</h2>
 <li>📚 I'm a 3rd-year student at King Mongkut's Institute of Technology Ladkrabang</li>
 <li>💻 I'm studying Computer Engineering</li><br/><br/>
 
