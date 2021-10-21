@@ -1,6 +1,6 @@
-### Hi there I'm Pperorin👋
+<h1>### Hi there I'm Pperorin👋</h1>
 
-<h1>📚 Where I am currently working 📚</h1>
+<a>📚 Where I am currently working 📚<a>
 <li>📚 I'm a 3rd-year student at King Mongkut's Institute of Technology Ladkrabang</li>
 <li>💻 I'm studying Computer Engineering</li><br/><br/>
 
