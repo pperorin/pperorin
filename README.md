@@ -1,8 +1,8 @@
 ### Hi there I'm Pperorin👋
 
-📚 Where I am currently working 📚
+<h1>📚 Where I am currently working 📚
 <li>📚 I'm a 3rd-year student at King Mongkut's Institute of Technology Ladkrabang</li>
-<li>💻 I'm studying Computer Engineering</li>
+<li>💻 I'm studying Computer Engineering</li><br/><br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pperorin&show_icons=true&theme=omni)<br/>
 
